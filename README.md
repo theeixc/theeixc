@@ -22,8 +22,8 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=theeixc.github.io)](https://github.com/theeixc/learn-vue-principle)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=learn-vue-principle)](https://github.com/theeixc/theeixc.github.io)
 <br><br><br>
 
 ### Github 活跃度
