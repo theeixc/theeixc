@@ -13,17 +13,17 @@
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.jpg"></code></a>
-<a href="https://webpack.docschina.org/"><code><img height="20" src="./images/webpack.jpg"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/less.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.jpeg"></code></a>
+<a href="https://webpack.docschina.org/"><code><img height="20" src="./images/webpack.jpeg"></code></a>
 <a href="https://less.bootcss.com/"><code><img height="20" src="./images/less.png"></code></a>
+<a href="https://element.eleme.cn/#/zh-CN"><code><img height="20" src="./images/element.jpeg"></code></a>
 <a href="https://www.typescriptlang.org/"><code><img height="20" src="./images/ts.jpg"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/react.png"></code></a>
+<a href="https://zh-hans.reactjs.org/"><code><img height="20" src="./images/react.png"></code></a>
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
 <br><br><br>
 
 ### Github 活跃度
