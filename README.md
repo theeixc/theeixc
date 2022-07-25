@@ -8,16 +8,17 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://www.yuque.com/theei"><code><img height="20" width="50" src="https://gw.alipayobjects.com/zos/bmw-prod/735cefc9-f976-4c87-8b48-85f713f5b713.svg"></code></a>：个人整理的学习笔记
+- <a href="https://www.yuque.com/theei"><code><img height="20" width="50" src="https://gw.alipayobjects.com/zos/bmw-prod/735cefc9-f976-4c87-8b48-85f713f5b713.svg"></code></a>：个人整理的学习笔记
+- [我的 hexo 博客](https://theeixc.github.io)：使用的是 [shoka](https://github.com/amehime/hexo-theme-shoka) 主题
 
 ### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://sass-lang.com"><code><img height="20" src="./images/sass.png"></code></a>
-<a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.jpg"></code></a>
+<a href="https://webpack.docschina.org/"><code><img height="20" src="./images/webpack.jpg"></code></a>
+<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/less.png"></code></a>
+<a href="https://less.bootcss.com/"><code><img height="20" src="./images/less.png"></code></a>
+<a href="https://www.typescriptlang.org/"><code><img height="20" src="./images/ts.jpg"></code></a>
+<a href="https://www.docker.com"><code><img height="20" src="./images/react.png"></code></a>
 
 ### 开源项目
 
@@ -27,7 +28,7 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=theeixc&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![theeixc's github stats](https://github-readme-stats.vercel.app/api?username=theeixc&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theeixc)
