@@ -22,8 +22,8 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=theeixc.github.io)](https://github.com/theeixc/learn-vue-principle)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=learn-vue-principle)](https://github.com/theeixc/theeixc.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=theeixc.github.io)](https://github.com/theeixc/theeixc.github.io)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=learn-vue-principle)](https://github.com/theeixc/learn-vue-principle)
 <br><br><br>
 
 ### Github 活跃度
