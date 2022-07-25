@@ -17,8 +17,8 @@
 <a href="https://webpack.docschina.org/"><code><img height="20" src="./images/webpack.jpeg"></code></a>
 <a href="https://less.bootcss.com/"><code><img height="20" src="./images/less.png"></code></a>
 <a href="https://element.eleme.cn/#/zh-CN"><code><img height="20" src="./images/element.jpeg"></code></a>
-<a href="https://www.typescriptlang.org/"><code><img height="20" src="./images/ts.jpg"></code></a>
-<a href="https://zh-hans.reactjs.org/"><code><img height="20" src="./images/react.png"></code></a>
+<a href="https://www.typescriptlang.org/"><code><img height="20" src="./images/ts.jpeg"></code></a>
+<a href="https://zh-hans.reactjs.org/"><code><img height="20" src="./images/react.jpeg"></code></a>
 
 ### 开源项目
 
