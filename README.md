@@ -23,7 +23,7 @@
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=theeixc.github.io)](https://github.com/theeixc/theeixc.github.io)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=shareme)](https://github.com/theeixc/shareme)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=portfolio)](https://github.com/theeixc/shareme)
 <br><br><br>
 
 ### Github 活跃度
