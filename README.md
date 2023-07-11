@@ -24,7 +24,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=theeixc.github.io)](https://github.com/theeixc/theeixc.github.io)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=theeixc&repo=portfolio)](https://github.com/theeixc/shareme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 
 ### Github 活跃度
